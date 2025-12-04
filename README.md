@@ -5,7 +5,10 @@
 Here are some ideas to get you started:
 
 - **I’m currently working on** @dicodingacademy 🔭
+- **Generative AI**: Building innovative solutions using CrewAI, Google Gemini, Langchain, Langflow.🧠 
 - **Interesting on**: Web engineering 🌐
-- **Specializing**: Golang & Next.js 🌱
+- **Specializing**: Golang & Next.js React, FastAPI, and Node.js.🌱
+- **UI/UX Enthusiast**: Designing intuitive interfaces with Figma and Tailwind CSS.🎨
+- **Tooling Pro**: Streamlining workflows with GitHub, GitLab, Notion, Postman, Swagger, and Trello.🛠️ 
+- **reach me**: visit my company worked on github 📫
 - **Fun fact**: DJ Producer, Pianist ⚡
-- **reach me: visit my company worked on github 📫
