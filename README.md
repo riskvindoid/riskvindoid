@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- **I’m currently working on** PT HoshiCorp Jakarta 🔭
+- **I’m currently working on** PT HoshiCorp 🔭
 - **Interesting on**: Web engineering 🌐
 - **Specializing**: Golang & Next.js React, FastAPI, and Node.js.🌱
 
