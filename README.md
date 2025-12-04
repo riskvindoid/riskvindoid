@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @dicodingacademy
-- 🌱 Specialist on Go & Next.js
-- 💬 Ask me about web engineering and AI
-- 📫 How to reach me: visit my company worked on github
-- ⚡ Fun fact: DJ Producer, Pianist
+**I’m currently working on** @dicodingacademy 🔭
+**Interesting on**: Web engineering 🌐
+**Specializing**: Golang & Next.js 🌱
+**Fun fact**: DJ Producer, Pianist ⚡
+**reach me: visit my company worked on github 📫
